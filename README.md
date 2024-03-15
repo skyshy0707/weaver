@@ -19,6 +19,16 @@
 ```
 
 
+!NB Настройки:
+
+При необходимости, в файле `/api/config.py` -- в переменной `headers_weather_api` 
+поменяйте параметер `` на свой*
+
+*Получить `X-RapidAPI-Key` можно при регистрации личного кабинета в сервисе:
+https://www.visualcrossing.com/sign-up или зарегистрировавшись на https://rapidapi.com/auth/sign-up?referral=/hub,
+используя google-аккаунт.
+
+
 **Запуск проекта**
 
 
