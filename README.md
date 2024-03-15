@@ -25,7 +25,7 @@
 поменяйте параметер `` на свой*
 
 *Получить `X-RapidAPI-Key` можно при регистрации личного кабинета в сервисе:
-https://www.visualcrossing.com/sign-up или зарегистрировавшись на https://rapidapi.com/auth/sign-up?referral=/hub,
+[https://www.visualcrossing.com/sign-up](#visualcrossing) или зарегистрировавшись на [https://rapidapi.com/auth/sign-up?referral=/visual-crossing-corporation-visual-crossing-corporation-default/api/visual-crossing-weather/](#rapidapi),
 используя google-аккаунт.
 
 
